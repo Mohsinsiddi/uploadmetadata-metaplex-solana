@@ -8,6 +8,7 @@ const main = async () => {
   );
   const image_url =
     "https://shdw-drive.genesysgo.net/5yKkQ5sbDnSMSr4tZwkwcqwDztWLJup5EGN5afcd4hHc/4073.png";
+
   const METADATA_CONFIG = {
     name: "MEME BOT",
     symbol: "MBOT",
